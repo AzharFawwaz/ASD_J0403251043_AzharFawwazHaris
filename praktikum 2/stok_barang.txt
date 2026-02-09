@@ -1,0 +1,14 @@
+BRG001,Roti,32
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,Tahu,30
+BRG005,Telur,15
+BRG006,Beras,9
+BRG007,BawangPutih,20
+BRG008,BawangMerah,14
+BRG009,KacangPanjang,10
+BRG010,Ketumbar,27
+BRG011,Kecap,15
+BRG012,Kentang,12
+BRG121,tikus berdasi,900
+BRG155,susu gula garam,123
